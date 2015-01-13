@@ -1,0 +1,10 @@
+#app:
+ #   resource: @AppBundle/Controller/
+ #   type:     annotation
+
+ibw_jobeet:
+    resource: "@IbwJobeetBundle/Resources/config/routing.yml"
+    prefix:   /{_locale}
+    requirements:
+        _locale: |en|fr
+    defaults: { _locale: en}
