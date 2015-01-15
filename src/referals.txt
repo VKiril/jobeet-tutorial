@@ -1,1 +1,1 @@
-http://www.intelligentbee.com/blog/2013/08/16/symfony2-jobeet-day-10-the-forms/
+http://www.intelligentbee.com/blog/2013/08/18/symfony2-jobeet-day-12-sonata-admin-bundle/
